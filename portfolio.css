@@ -1,0 +1,39 @@
+body {
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+.project-image {
+  width: 500px;
+}
+
+.project-card-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.project-tile {
+  background-color: lightblue;
+  text-align: center;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+a:active {
+  color: black;
+  text-decoration: none;
+}
